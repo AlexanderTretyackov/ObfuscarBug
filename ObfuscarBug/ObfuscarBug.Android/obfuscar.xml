@@ -1,0 +1,5 @@
+﻿<Obfuscator>
+  <Var name="OutPath" value="..\..\..\..\..\bin\Release" />
+  <Module file="ObfuscarBug.dll"/>
+  <Module file="ObfuscarBug.Android.dll"/>
+</Obfuscator>
